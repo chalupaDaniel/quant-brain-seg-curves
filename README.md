@@ -4,6 +4,6 @@
 - Image Processing Toolbox
 
 # Directory structure
-Matlab -> Relevant Matlab scripts
-Results -> Full tables of results
-Bash -> Utilities for freesurfer, Matlab's external dependencies etc.
+- Matlab -> Relevant Matlab scripts
+- Results -> Full tables of results
+- Bash -> Utilities for freesurfer, Matlab's external dependencies etc.
